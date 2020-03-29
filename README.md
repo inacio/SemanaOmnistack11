@@ -1,2 +1,2 @@
 # SemanaOmnistack11
-⚛️ Projeto desenvolvido na Semana Omnistack 10ªed.: Rocketseat
+⚛️ Projeto desenvolvido na Semana Omnistack 11ªed.: Rocketseat
